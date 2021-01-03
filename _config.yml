@@ -11,9 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Ryan Cooper & Alden Wheeler # add your name
 author-img: david-freeman.jpg # add your photo
-about-author: Long time sports fans. 
-              Short time writers. 
-              Aspiring data aficionados. # add description
+about-author: Long time sports fans.\nShort time writers.\nAspiring data aficionados. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: rcooper47 # add your Github handle
