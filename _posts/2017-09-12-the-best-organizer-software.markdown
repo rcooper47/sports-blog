@@ -12,7 +12,9 @@ tags:
 published: true
 ---
 
-This was supposed to be a sports blog.  This website is run by two sports ~~obssessianados~~ ~~lovers~~ enthusiasts, but its first posts won't be related to sports at all.  If you're wondering why, which I hope you are, it's because we simply can't afford to think too much about sports right now.  I'm working on applying last month's principle of Put First Things First, and working on fixing my wrecked school life.  
+This was supposed to be a sports blog.  
+
+This website is run by two sports ~~obssessianados~~ ~~lovers~~ enthusiasts, but its first posts won't be related to sports at all.  If you're wondering why, which I hope you are, it's because we simply can't afford to think too much about sports right now.  I'm working on applying last month's principle of Put First Things First, and working on fixing my wrecked school life.  
 
 Starting with an all out blitz of an experiment.  (Pun was fitting, but unintended)
 ### Learning From an Experiment in Studying
