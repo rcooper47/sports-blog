@@ -25,7 +25,7 @@ In my head: planning habit 4 weeks straight
             	-week 1: Previewing and QEC notes with 10 minute walks
                 -week 2: Reviewing and Concept Maps
             completing assignments across final week
-            	-scoreboard
+            	-scoreboard: weeks without an L?  Certain number of weeks adds up to a reward?
                 -cadence of positive accountability
 
 ## Learning Material
